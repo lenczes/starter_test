@@ -1,4 +1,4 @@
-#Week 1 Exercise 1
+# Week 1 Exercise 1
 
 This is the first project to get used to htmp, css and git.
 
